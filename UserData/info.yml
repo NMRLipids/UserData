@@ -21,4 +21,4 @@ COMPOSITION:
     MAPPING: mappingC20H42.yaml
   SOL:
     NAME: SOL
-    MAPPING: mappingTIP3PCHARMM.yaml
+    MAPPING: mappingTIP3Pwater.yaml
