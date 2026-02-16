@@ -21,3 +21,6 @@ COMPOSITION:
   SOD:
     NAME: Na+
     MAPPING: mappingNA+.yaml
+  SOL:
+    NAME: WAT
+    MAPPING: mappingTIP3P_amber.yaml
