@@ -25,3 +25,6 @@ COMPOSITION:
   SOL:
     NAME: SOL
     MAPPING:  mappingTIP3PwaterSlipids.yaml
+  CLA:
+    NAME: CL
+    MAPPING: mappingCLAslipids.yaml
