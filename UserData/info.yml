@@ -21,10 +21,10 @@ COMPOSITION:
     MAPPING: mappingPOPEslipids.yaml
   SOD:
     NAME: NA
-    MAPPING: mappingSODlipid17.yaml
+    MAPPING: mappingNA.yaml
   SOL:
     NAME: SOL
     MAPPING:  mappingTIP3PwaterSlipids.yaml
   CLA:
     NAME: CL
-    MAPPING: mappingCLAslipids.yaml
+    MAPPING: mappingCL.yaml
