@@ -1,3 +1,4 @@
+
 DOI: 10.5281/zenodo.2579675
 TRJ: dm_popg_pope_3_1_slipid.xtc
 SOFTWARE: gromacs
@@ -20,7 +21,7 @@ COMPOSITION:
     MAPPING: mappingPOPEslipids.yaml
   SOD:
     NAME: NA
-    MAPPING: mappingSODslipids.yaml
+    MAPPING: mappingSODlipid17.yaml
   SOL:
     NAME: SOL
     MAPPING:  mappingTIP3PwaterSlipids.yaml
