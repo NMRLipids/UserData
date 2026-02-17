@@ -21,3 +21,6 @@ COMPOSITION:
   SOD:
     NAME: NA
     MAPPING: mappingSODslipids.yaml
+  SOL:
+    NAME: SOL
+    MAPPING: mappingTIP3PwaterSlipids.yaml
