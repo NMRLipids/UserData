@@ -13,7 +13,7 @@ EDR: md_400_500.edr
 TPR: md_08.tpr
 COMPOSITION:
   POPG:
-    NAME: POPG
+    NAME: POG
     MAPPING: mappingPOPGslipids.yaml
   POPE:
     NAME: POPE
