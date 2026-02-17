@@ -20,4 +20,5 @@ COMPOSITION:
     MAPPING: mappingPOPEslipids.yaml
   SOD:
     NAME: NA
-    MAPPING: mappingSODslipids.yaml
+    MAPPING: mappingSODlipid17.yaml
+  
