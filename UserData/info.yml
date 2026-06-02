@@ -1,0 +1,22 @@
+DOI: https://doi.org/10.5281/zenodo.20283378
+TRJ: production.xtc
+SOFTWARE: gromacs
+PREEQTIME: 1.875
+TIMELEFTOUT: 10
+TEMPERATURE: 303.15
+SYSTEM: DMPC
+PUBLICATION: 10.1021/ja962951b
+AUTHORS_CONTACT: "Anna Kristine Sandtorv-Ler\xF8en/anna.kristine.sandtorv.leroen@gmail.com / Markus S. Miettinen/Markus.Miettinen@uib.no"
+SOFTWARE_VERSION: '2026.1'
+FF: CHARMM36
+FF_DATE: 14.04.2026
+TOP: topol.top
+TPR: production.tpr
+GRO: production.gro
+COMPOSITION:
+  DMPC:
+    NAME: DMPC
+    MAPPING: mappingDMPCcharmm.yaml
+  SOL:
+    NAME: TIP3
+    MAPPING: mappingTIP3PCHARMMgui.yaml
