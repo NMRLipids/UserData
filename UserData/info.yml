@@ -11,7 +11,7 @@ SOFTWARE_VERSION: '2026.1'
 FF: CHARMM36
 FF_DATE: 14.04.2026
 TOP: topol.top
-TPR: production.tpr
+TPR: prod243.tpr
 GRO: production.gro
 COMPOSITION:
   DMPC:
