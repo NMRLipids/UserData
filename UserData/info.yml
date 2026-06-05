@@ -1,0 +1,20 @@
+DOI: 10.5281/zenodo.20524111
+TRJ: production.xtc
+SOFTWARE: gromacs
+PREEQTIME: 1.875
+TIMELEFTOUT: 20
+TEMPERATURE: 322
+SYSTEM: DPPC
+AUTHORS_CONTACT: Stine Floen / stflo9270@uib.no / Markus Miettinen / Markus.Miettinen@uib.no
+FF: CHARMM36
+CPT: production.cpt
+TOP: topol.top
+TPR: productionC_2025.tpr
+GRO: production.gro
+COMPOSITION:
+  DPPC:
+    NAME: DPPC
+    MAPPING: mappingDPPCcharmm.yaml
+  SOL:
+    NAME: TIP3
+    MAPPING: mappingTIP3PCHARMMgui.yaml
