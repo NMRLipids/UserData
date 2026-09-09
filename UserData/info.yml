@@ -9,9 +9,9 @@ PUBLICATION: https://doi.org/10.1021/acs.jctc.4c00743
 AUTHORS_CONTACT: Ricky Nencini
 SOFTWARE_VERSION: '2018.6'
 FF: CHARMM36 with NBFIX-Han
-CPT: pops_250_50_contra_sodium_nbfix_han.cpt
-TOP: pops_250_50_contra_sodium_nbfix_han.top
-EDR: pops_250_50_contra_sodium_nbfix_han.edr
+CPT: popc_pops_250_50_contra_sodium_nbfix_han.cpt
+TOP: popc_pops_250_50_contra_sodium_nbfix_han.top
+EDR: popc_pops_250_50_contra_sodium_nbfix_han.edr
 TPR: popc_pops_250_50_contra_sodium_nbfix_han.tpr
 GRO: popc_pops_250_50_contra_sodium_nbfix_han.gro
 COMPOSITION:
