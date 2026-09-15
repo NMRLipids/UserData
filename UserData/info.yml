@@ -21,4 +21,4 @@ COMPOSITION:
     MAPPING: mappingDPPCcharmm.yaml
   SOL:
     NAME: SOL
-    MAPPING: mappingSPCwater.yaml
+    MAPPING: mappingTIP3Pwater.yaml
