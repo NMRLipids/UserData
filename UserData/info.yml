@@ -20,5 +20,5 @@ COMPOSITION:
     NAME: DPPC
     MAPPING: mappingDPPCcharmm.yaml
   SOL:
-    NAME: TIP3
-    MAPPING: mappingTIP3PCHARMMgui.yaml
+    NAME: SOL
+    MAPPING: mappingSPCwater.yaml
