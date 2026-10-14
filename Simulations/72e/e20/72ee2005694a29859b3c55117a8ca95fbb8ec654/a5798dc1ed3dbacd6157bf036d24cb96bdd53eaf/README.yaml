@@ -150,3 +150,10 @@ bioschema_properties:
     doi: 10.5281/zenodo.23209176
     spdxLicenseList: 3.29.0
     retrieved: '2026-10-14'
+EXPERIMENT:
+  ORDERPARAMETER:
+    POPC:
+    - 10.1021/acs.jpcb.4c04719/4
+    - 10.1039/c2cp42738a/1
+  FORMFACTOR:
+  - 10.1021/acs.jctc.3c00648/1
